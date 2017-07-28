@@ -33,3 +33,8 @@ SimpleITK uses the [Git](http://git-scm.com/) distributed version control system
 The SimpleITK [Wiki](https://itk.org/Wiki/SimpleITK) is the main site for all things SimpleITK. The site includes information on installing the toolkit's binary distributions, building the toolkit, user support documentation and much more. The API documentation is maintained using [Doxygen](https://www.itk.org/SimpleITKDoxygen/html/annotated.html).
 
 SimpleITK provides access to most of the ITK components, but not all. If you are looking for something specific and can't find it, ask for support on the [mailing list](https://itk.org/mailman/listinfo/community) (you will need to subscribe to the mailing list before you post).
+
+Myself Note
+=============
+1.底层代码用c++，然后用封装成Python接口
+2.只有部分的水平集算法，而且不是最先进的
