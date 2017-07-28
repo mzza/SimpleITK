@@ -36,5 +36,6 @@ SimpleITK provides access to most of the ITK components, but not all. If you are
 
 Myself Note
 =============
-1.底层代码用c++，然后用封装成Python接口
-2.只有部分的水平集算法，而且不是最先进的
+*底层代码用c++，然后用封装成Python接口
+*只有部分的水平集算法，而且不是最先进的
+![avator](https://github.com/mzza/SimpleITK/blob/next/md%20imag/PM5E%40U08J%60HBIO9GS4L%7ET68.png)
